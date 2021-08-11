@@ -15,6 +15,8 @@ public class Point {
 
     private double devMode;
 
+    private String compare;
+
 
 
 }
