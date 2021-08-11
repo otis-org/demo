@@ -13,6 +13,8 @@ public class Point {
 
     private double english;
 
+    private double devMode;
+
 
 
 }
