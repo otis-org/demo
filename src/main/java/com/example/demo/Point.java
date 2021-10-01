@@ -17,6 +17,7 @@ public class Point {
 
     private String compare;
 
+    private String note;
 
 
 }
